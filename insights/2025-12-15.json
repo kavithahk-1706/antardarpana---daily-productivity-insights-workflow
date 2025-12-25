@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-12-15",
+    "timestamp": "2025-12-15T17:11:04.000Z",
+    "form_response": "Today I woke up early. I did my puja, morning puja. Then I went to college and in college there was a lot of free time because we had company networks and the teacher was useless, so I studied a bit of DSA stuff, not exactly anything big. But like the basic data structures. Then I came home, I did my evening puja. Then I studied ATCD in the first study block, Automated Theory and Compiler Design. I did a bunch of that. There were a few things that, like I couldn't fit in a second study block because I had to go down for a walk like my mom told me to. There was no other option. So I had to go down for a walk and about an hour or half an hour was wasted on that. And other than that I did ATCD for more than the proposed time. So like I did it for a bit more than the study block because I wanted to understand everything before going to the next thing. Then I practiced music for the first time in a long time. Then I finished a bit of this stuff. So I basically completed this automation, this workflow, this whole thing was completed today. Then I also completed a few chapters of the Bhagavad Gita in my book. So like I'm making this book where the script is Telugu and the translation is English so that it's easy for me when I have to start taking classes. So I did a few chapters of that as well. And it's 10 minutes past my bedtime but I will go and sleep now. I feel like I've done a lot more than I usually would and there are a lot of things that I did a lot earlier than I usually would, so I'm kind of proud of myself. There's, I didn't stick to schedule strictly but also I managed to get a lot done today, so that's something. ",
+    "completed_activities": "Morning puja, Attended college, Studied DSA during college free time, Evening puja, Studied Automated Theory and Compiler Design (ATCD) for Study Block 1 and beyond, Went for a walk with mom, Practiced music, Completed automation/workflow project (Projects / Prep), Completed a few chapters of Bhagavad Gita (self-study for her book)",
+    "missed_activities": "Gita Classes (Batch A), Study Block 2",
+    "valid_reasons": "Study Block 2 was replaced by a mandatory walk with her mom (external circumstance), Gita Classes were replaced by self-study of Bhagavad Gita (positive substitution for personal spiritual project)",
+    "immediate_concerns": "None",
+    "overall_sentiment": "thriving",
+    "productivity_score": 8,
+    "gita": {
+      "chapter": 2,
+      "verse": 48,
+      "devanagari": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥ ४८ ॥",
+      "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañ-jaya siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate",
+      "translation": "Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga.",
+      "reasoning": "This verse directly speaks to 'yoga-sthah kuru karmani' (perform actions steadfast in yoga), which encapsulates balancing duties effectively. 'Siddhy-asiddhyoh samo bhutva' (being equal in success and failure) perfectly addresses adapting well to schedule changes, maintaining equanimity regardless of external shifts. The premise of effective balance, adaptation, and internal pride aligns with the state of 'samatvam' (equanimity) which is described as Yoga, connecting to discipline and karma yoga."
+    },
+    "krishna": {
+      "tone": "celebration",
+      "themes": [
+        "balance",
+        "karma_yoga",
+        "discipline",
+        "dharma"
+      ],
+      "reason": "She significantly exceeded her own expectations, adapted well to schedule changes, balanced academic and spiritual duties effectively, and feels genuinely proud of her accomplishments.",
+      "message": "Oh, look at you, figuring out the ancient wisdom! Balancing all those 'duties' – academics, spiritual stuff, even those pesky schedule changes – like a seasoned yogi. And you’re actually proud? Well done, mortal. Turns out, performing actions with a steady mind, treating success and 'oopsie' moments equally, really does make life… tolerable. Who knew? Don't get *too* smug, but I suppose a little self-congratulation is in order. You're almost making it look easy."
+    }
+  }
+]
