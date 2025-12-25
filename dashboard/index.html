@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Daily Insights</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Daily Reflection</h1>
+
+  <label for="datePicker">Select date:</label>
+  <input type="date" id="datePicker" />
+
+  <section>
+    <h2>Productivity</h2>
+    <div id="score">—</div>
+    <p id="sentiment"></p>
+  </section>
+
+  <section>
+    <h2>What You Wrote</h2>
+    <pre id="formResponse">Loading…</pre>
+  </section>
+
+  <section>
+    <h2>Activities</h2>
+    <p><strong>Completed:</strong> <span id="completed"></span></p>
+    <p><strong>Missed:</strong> <span id="missed"></span></p>
+    <p><strong>Reasons:</strong> <span id="reasons"></span></p>
+  </section>
+
+  <section>
+    <h2>Bhagavad Gita</h2>
+    <p id="shloka"></p>
+    <blockquote id="translation"></blockquote>
+    <p id="reasoning"></p>
+  </section>
+
+  <section>
+    <h2>Krishna Says</h2>
+    <blockquote id="krishnaMessage"></blockquote>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
