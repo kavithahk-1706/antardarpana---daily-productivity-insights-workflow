@@ -24,5 +24,31 @@
         "discipline"
       ]
     }
+  },
+  {
+    "date": "2025-12-16",
+    "timestamp": "2025-12-16T03:41:00.000Z",
+    "form_response": "Today I woke up early. I did my puja, morning puja. Then I went to college and in college there was a lot of free time because we had company networks and the teacher was useless, so I studied a bit of DSA stuff, not exactly anything big. But like the basic data structures. Then I came home, I did my evening puja. Then I studied ATCD in the first study block, Automated Theory and Compiler Design. I did a bunch of that. There were a few things that, like I couldn't fit in a second study block because I had to go down for a walk like my mom told me to. There was no other option. So I had to go down for a walk and about an hour or half an hour was wasted on that. And other than that I did ATCD for more than the proposed time. So like I did it for a bit more than the study block because I wanted to understand everything before going to the next thing. Then I practiced music for the first time in a long time. Then I finished a bit of this stuff. So I basically completed this automation, this workflow, this whole thing was completed today. Then I also completed a few chapters of the Bhagavad Gita in my book. So like I'm making this book where the script is Telugu and the translation is English so that it's easy for me when I have to start taking classes. So I did a few chapters of that as well. And it's 10 minutes past my bedtime but I will go and sleep now. I feel like I've done a lot more than I usually would and there are a lot of things that I did a lot earlier than I usually would, so I'm kind of proud of myself. There's, I didn't stick to schedule strictly but also I managed to get a lot done today, so that's something. ",
+    "completed_activities": "Woke up early (earlier than planned), Morning Puja (including get ready and diya prep), College (utilizing free time for DSA study), Fresh up, Evening Puja, Study Block 1 (Automated Theory and Compiler Design - completed more than planned), Music Practice (restarted after a long time), Dinner, Projects / Prep (completed a workflow), Self-study of Bhagavad Gita chapters (in preparation for teaching), Studied basic Data Structures and Algorithms (DSA), Going to sleep (slightly past bedtime, but with clear intent)",
+    "missed_activities": "Gita Classes (Batch A), Study Block 2, Wind down + Diya prep (likely cut short)",
+    "valid_reasons": "Opted for self-study of Bhagavad Gita to prepare for teaching, fulfilling the spiritual learning goal in a different way than attending the class., Went for a walk with mom (family obligation), which replaced Study Block 2., Extended Study Block 1 to ensure full understanding of ATCD, prioritizing quality over strict schedule adherence, which led to a cascade effect on later timings.",
+    "immediate_concerns": "None",
+    "productivity_score": 9,
+    "gita": {
+      "chapter": "2",
+      "verse": "48",
+      "devanagari": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥ ४८ ॥",
+      "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañ-jaya siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate",
+      "translation": "Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga."
+    },
+    "krishna": {
+      "tone": "celebration",
+      "themes": [
+        "karma_yoga",
+        "balance",
+        "perseverance",
+        "discipline"
+      ]
+    }
   }
 ]
