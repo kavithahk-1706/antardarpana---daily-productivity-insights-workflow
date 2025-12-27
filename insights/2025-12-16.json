@@ -1,0 +1,31 @@
+[
+  {
+    "date": "2025-12-16",
+    "timestamp": "2025-12-16T03:41:00.000Z",
+    "form_response": "Today I woke up early. I did my puja, morning puja. Then I went to college and in college there was a lot of free time because we had company networks and the teacher was useless, so I studied a bit of DSA stuff, not exactly anything big. But like the basic data structures. Then I came home, I did my evening puja. Then I studied ATCD in the first study block, Automated Theory and Compiler Design. I did a bunch of that. There were a few things that, like I couldn't fit in a second study block because I had to go down for a walk like my mom told me to. There was no other option. So I had to go down for a walk and about an hour or half an hour was wasted on that. And other than that I did ATCD for more than the proposed time. So like I did it for a bit more than the study block because I wanted to understand everything before going to the next thing. Then I practiced music for the first time in a long time. Then I finished a bit of this stuff. So I basically completed this automation, this workflow, this whole thing was completed today. Then I also completed a few chapters of the Bhagavad Gita in my book. So like I'm making this book where the script is Telugu and the translation is English so that it's easy for me when I have to start taking classes. So I did a few chapters of that as well. And it's 10 minutes past my bedtime but I will go and sleep now. I feel like I've done a lot more than I usually would and there are a lot of things that I did a lot earlier than I usually would, so I'm kind of proud of myself. There's, I didn't stick to schedule strictly but also I managed to get a lot done today, so that's something. ",
+    "completed_activities": "Woke up early, Morning puja, Attended college, Studied DSA during free time at college, Evening puja, Studied Automated Theory and Compiler Design (ATCD) in Study Block 1 (exceeding planned time), Walk with mom, Practiced music, Completed automation workflow, Completed Bhagavad Gita chapters (personal study), Went to sleep (10 minutes past bedtime)",
+    "missed_activities": "Gita Classes (Batch A), Study Block 2, Wind down + Diya prep (likely rushed/skipped)",
+    "valid_reasons": "Mandatory walk with mom prevented fitting in Study Block 2.",
+    "immediate_concerns": "Viewing mandatory family time ('walk with mom') as 'wasted time' suggests potential resentment or struggle with balancing personal goals and family duties., Skipped Gita class despite engaging in personal Gita study; potential for prioritizing self-directed study over structured learning or community engagement.",
+    "overall_sentiment": "thriving",
+    "productivity_score": 8,
+    "gita": {
+      "chapter": "2",
+      "verse": "48",
+      "devanagari": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥ ४८ ॥",
+      "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañ-jaya siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate",
+      "translation": "Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga."
+    },
+    "krishna": {
+      "tone": "encouraging",
+      "themes": [
+        "dharma",
+        "karma_yoga",
+        "balance",
+        "self_compassion"
+      ],
+      "reason": "She achieved a lot and feels proud, demonstrating strong discipline and initiative. The guidance aims to reinforce this positive momentum while gently addressing areas for deeper reflection on balance and duty, maintaining the lighthearted teasing tone she appreciates.",
+      "message": "Well, well, look who's been absolutely crushing it! All that discipline and initiative, I'm practically impressed. And yes, darling, you absolutely *should* feel proud. But here's a little secret for the truly advanced: the *real* flex isn't just piling up the wins. It's about keeping that magnificent head of yours utterly balanced, whether you're slaying dragons or, you know, just gracefully tripping over your own feet. Don't go getting *too* attached to your perfect record, or those minor bumps will be quite the shock. Keep working hard, by all means, but aim for inner zen, not just outer shine. It’s what all the cool yogis are doing."
+    }
+  }
+]
