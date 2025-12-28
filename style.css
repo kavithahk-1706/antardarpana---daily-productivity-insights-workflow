@@ -278,7 +278,7 @@ h1 {
   font-size: 1.3rem;
   color: var(--accent-gold);
   font-weight: 600;
-  line-height: 1.5;
+  line-height: 1.8;
   margin-bottom: 0.5rem;
   white-space: pre-line;
 }
@@ -287,7 +287,7 @@ h1 {
   color: var(--text-main);
   font-style: italic;
   font-size: 1rem;
-  line-height: 1.6;
+  line-height: 1.8;
   border-left: 3px solid var(--accent-gold);
   padding-left: 1rem;
 }

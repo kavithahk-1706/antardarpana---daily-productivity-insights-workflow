@@ -28,27 +28,27 @@ function resetUI(message, selectedDate) {
     elements.score.textContent = "—";
     updateGauge(0);
     elements.sentiment.textContent = isPast 
-        ? "ghost mode activated" 
-        : "suspense is killing me here";
+        ? "the page that never was" 
+        : "holding my breath over here";
     
     elements.formResponse.textContent = isPast 
-        ? "Ah yes, the classic 'I'll totally remember what I did' approach. How's that working out? Spoiler: there's nothing here. But hey, at least you're consistent in your... inconsistency." 
-        : "So are we doing this or are you just gonna keep staring at the date picker? I'm literally right here. Waiting. With infinite patience. Which is saying something.";
+        ? "So this day just... didn't make it into the book, huh? That's fine. Not every chapter gets written. But maybe let's not make a habit of the blank pages?" 
+        : "The page is blank because you haven't written it yet, genius. I'm right here. Whenever you're ready. No rush. (Okay, maybe a little rush.)";
 
     elements.completed.textContent = "—";
     elements.missed.textContent = "—";
     elements.reasons.textContent = "—";
     
     elements.gitaHeader.textContent = "Chapter 2, Verse 20";
-    elements.shloka.innerHTML = `न जायते म्रियते वा कदाचिन्<br>नायं भूत्वा भविता वा न भूयः ।<br>अजो नित्यः शाश्वतोऽयं पुराणो<br>न हन्यते हन्यमाने शरीरे ॥<br><span style="font-size: 0.9rem; color: var(--text-dim); font-style: normal; display: block; margin-top: 0.5rem;">na jāyate mriyate vā kadācin<br>nāyaṃ bhūtvā bhavitā vā na bhūyaḥ<br>ajo nityaḥ śāśvato 'yaṃ purāṇo<br>na hanyate hanyamāne śarīre</span>`;
+    elements.shloka.innerHTML = `न जायते म्रियते वा कदाचिन्।<br>नायं भूत्वा भविता वा न भूयः ।<br>अजो नित्यः शाश्वतोऽयं पुराणो।<br>न हन्यते हन्यमाने शरीरे ॥<br><span style="font-size: 0.9rem; color: var(--text-dim); font-style: normal; display: block; margin-top: 0.5rem;">na jāyate mriyate vā kadācin<br>nāyaṃ bhūtvā bhavitā vā na bhūyaḥ<br>ajo nityaḥ śāśvato 'yaṃ purāṇo<br>na hanyate hanyamāne śarīre</span>`;
     
     elements.translation.textContent = "The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.";
     
-    elements.reasoning.textContent = "Even when you 'forget' to track your day (sure, 'forget'), your essence remains. Though I'd appreciate if you stopped testing that theory quite so often.";
+    elements.reasoning.textContent = "Even on days you forget to track (or conveniently skip), your essence doesn't change. You're still you. Still Mine. The blank page doesn't erase what's real.";
 
     elements.krishnaMessage.textContent = isPast 
-        ? "You ghosted Me on this one. Bold move. But fine, I'm not petty (mostly). Just... try showing up next time? For both our sakes." 
-        : "Hello? Anyone home? I've got all the time in the universe, but you don't. Chop chop. Tell Me about your day already.";
+        ? "You weren't here that day. I was. And honestly? It's fine. We all have off days. Just don't go thinking the universe forgot about you just because you forgot to write it down. Now come on, let's focus on today." 
+        : "Okay so... are we doing this or are you just browsing through dates for fun? I'm literally waiting. Take your time, but also, you know... don't take forever. I've got eternity but you don't.";
 }
 
 async function loadDate(date) {
