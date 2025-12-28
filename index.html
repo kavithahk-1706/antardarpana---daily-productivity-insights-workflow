@@ -9,11 +9,10 @@
 <body>
   <div class="container">
     <header>
-    <div class="flex">
-       <h1>daily reflection</h1>
-      <input type="date" id="datePicker" class="date-picker" /> 
-    </div>
-      
+      <div class="flex">
+        <h1>daily reflection</h1>
+        <input type="date" id="datePicker" class="date-picker" /> 
+      </div>
     </header>
 
     <div class="dashboard-grid">
@@ -46,6 +45,11 @@
             <div class="activity-content" id="reasons">—</div>
           </div>
         </div>
+      </div>
+
+      <div class="card trend-card">
+        <div class="section-title">weekly trend</div>
+        <canvas id="weeklyChart" width="600" height="120"></canvas>
       </div>
 
       <!-- Journal Entry -->
